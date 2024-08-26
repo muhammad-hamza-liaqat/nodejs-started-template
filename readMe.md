@@ -40,6 +40,10 @@ To start the development server, run the following command:
 npm run dev
 ```
 
+```bash
+npm start
+```
+
 This will start the server on the default port (e.g., `http://localhost`).
 create the env file, and see the .env.example file for env variables and set in env file.
 then start the server
